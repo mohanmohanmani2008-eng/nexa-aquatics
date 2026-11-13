@@ -1,0 +1,6 @@
+{
+  "name": "BlueFin Wholesale Aquatics",
+  "description": "Wholesale ornamental aquarium fish supplier offering Guppy, Molly, Goldfish, bulk orders, safe packaging, and reliable delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
